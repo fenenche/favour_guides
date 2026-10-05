@@ -183,6 +183,36 @@ pages = [
             ("Setting Clear Goals", "Decide exactly what you want to accomplish before you start, like 'finish 10 math problems.'"),
         ],
     },
+    {
+        "filename": "budgeting.html",
+        "title": "Budgeting",
+        "hero_text": "Simple ways to plan and manage your money.",
+        "cards": [
+            ("Tracking Your Spending", "Write down or use an app to log what you spend money on each week. Seeing it clearly makes it much easier to spot where your money actually goes."),
+            ("The 50/30/20 Rule", "A simple guide: spend about 50% of your money on needs, 30% on wants, and save or pay off debt with the remaining 20%."),
+            ("Setting Savings Goals", "Give your savings a purpose, like a new phone or emergency fund. A specific goal makes it easier to stay motivated and avoid impulse spending."),
+        ],
+    },
+    {
+        "filename": "saving-investing.html",
+        "title": "Saving & Investing",
+        "hero_text": "The basics of growing your money over time.",
+        "cards": [
+            ("Why Saving Matters", "Saving gives you a cushion for emergencies and helps you afford bigger goals later, like further education or starting a business."),
+            ("Understanding Interest", "When you save money in a bank account, it can earn interest over time, meaning your money grows just by sitting there."),
+            ("What Investing Means", "Investing means putting money into something (like stocks or a business) with the goal of it growing in value over time. It carries more risk than saving, but also more potential reward."),
+        ],
+    },
+    {
+        "filename": "entrepreneurship.html",
+        "title": "Entrepreneurship Basics",
+        "hero_text": "What it takes to start and run a small business.",
+        "cards": [
+            ("Finding a Business Idea", "Good business ideas often solve a problem people already have. Think about challenges you or people around you face regularly."),
+            ("Basic Business Planning", "A simple plan should cover what you're selling, who your customers are, and how you'll reach them. It doesn't need to be complicated to start."),
+            ("Managing Money Wisely", "Keep your personal and business money separate from the start, and always track what's coming in and going out."),
+        ],
+    },
 ]
 
 
